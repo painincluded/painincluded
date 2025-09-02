@@ -17,7 +17,7 @@ I'm an university student majoring in Informatics, with a strong interest in web
 
 - Develop real-world applications using Next.js and Node.js
 - Strengthen my skills in databases and cloud deployment
-- Continue building backend-focused projects and improving my JavaScript expertise
+- Continue building web projects and improving my JavaScript expertise
 
 ## 🛠️ What I Bring
 
