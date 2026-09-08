@@ -1,2 +1,2 @@
 # František Saidl
-IT Student at ČZU | Junior Software Developer
+IT Student | Junior Software Developer
